@@ -16,6 +16,20 @@ calculateCO2ByPlastic(weight)
  - 686500000000000000000 (in UI it should be divided by 18 decimals 686.5)
 ```
 
+## 🚀 Smart Contract Deployment Information
+
+The Smart Contract-Based Carbon Footprint Calculator has been deployed on the Gesia Chain. Below are the deployment details:
+
+### Calculator Contract
+
+- **Contract Address**: 0xb8CB5D2b8C54c76E3368c35e6EDf9A7F2dC6149D
+- **Transaction Hash**: 0x1c8e15dd75a0e1a5dd8fcf818fd1aff993414b0dabdcebf313adf7e4ab993403
+
+You can verify the deployment of the Calculator Contract by checking the contract address and transaction hash on [Gesia Explorer](https://explorer.gesia.io). Here are the links for your convenience:
+
+- [Calculator Contract on Gesia Chain](https://explorer.gesia.io/address/0xb8CB5D2b8C54c76E3368c35e6EDf9A7F2dC6149D)
+
+
 ## 📝 How is it calculated?
 The carbon emissions are calculated based on the emission factors and calculation methods referenced from [[SVMR 제2호] 플라스틱 패키징 감축의 사회적 가치](https://svhub.co.kr/contents/info?id=2433)
 
