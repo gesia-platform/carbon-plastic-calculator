@@ -33,6 +33,15 @@ You can verify the deployment of the Calculator Contract by checking the contrac
 ## 📝 How is it calculated?
 The carbon emissions are calculated based on the emission factors and calculation methods referenced from [[SVMR 제2호] 플라스틱 패키징 감축의 사회적 가치](https://svhub.co.kr/contents/info?id=2433)
 
+The following formula is the essential formula of Carbon Footprint Calculator.
+``` plain
+# emission factor of plastic(PETE) bottle(1kg): 6.865
+
+weight of Plastic(kg) x emission factor of plastic(kgCO2/kg)
+ ```
+
+ Please refer to the [Link](https://docs.google.com/spreadsheets/d/1Ux_1j0GeKGeHm8ODT-M-Hr23sCayQYw70shNw2le0Bs/edit#gid=1301856501) for more detailed info.
+
 ## 📚 Sources
 - [[SVMR 제2호] 플라스틱 패키징 감축의 사회적 가치](https://svhub.co.kr/contents/info?id=2433)
 
