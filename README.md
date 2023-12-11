@@ -1,4 +1,4 @@
-# 🚗 Plastic(PETE) Carbon Footprint Calculator
+# 🥤 Plastic(PETE) Carbon Footprint Calculator
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
